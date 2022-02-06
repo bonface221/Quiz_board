@@ -268,17 +268,19 @@ body {
 }
 
 #container #result h6 {
-    height: 40px;
+    height: 41px;
     width: 87%;
-    font-size: 25px;
+    font-size: 23px;
     position: absolute;
     text-align: center;
     top: 235px;
+    color: rgb(36, 39, 36);
 }
 
 #container #result #points {
     font-size: 30px;
     top: 275px;
+    color: rgb(194, 29, 153);
 }
 
 #container #result button {
