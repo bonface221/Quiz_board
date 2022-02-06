@@ -5,7 +5,7 @@
 
 <h1>Site<h1>
   <h2>Landing page<h2>
-  <img src="landingPage3.png" alt="image">
+  <img src="landinPage3.png" alt="image">
      <p> The webpage has a start Quiz button that leads to a quiz guide in the next page<p>
    <h2>Mobile Support<h2>
    <P>The website supports all the devices and all OS's and consistent improvements are being made and updated<p>
