@@ -1,5 +1,5 @@
 <h1>WebApp<h1>
-    <h5>A webapp which has a quiz for the Javascript students in highschool computer club. The test is aimed for the students to answer multiple choice questions on the website.<h5>
+    <h4>A webapp which has a quiz for the Javascript students in highschool computer club. The test is aimed for the students to answer multiple choice questions on the website.<h4>
  <h2>Demo<h2>
    <p>The website demo is available on the landing page of the repo<p>   
 
@@ -26,7 +26,7 @@
 
 
 <h2>Bugs<h2>
-<p>If you need to fix a bug kindly inbox me and open up  an issue by including your search query and the expected result<p>
+<h5>If you need to fix a bug kindly inbox me and open up  an issue by including your search query and the expected result<h5>
 <h2>Built with<h2>
 
 <h5>HTML<h5>
