@@ -23,8 +23,8 @@ body {
     width: 250px;
     text-align: center;
     padding: 20px 0;
-    background: #e4d82d;
-    color: #000;
+    background: #e91e3a;
+    color: white;
     font-size: 27px;
     font-weight: 700;
     border-radius: 30px 10px;
@@ -34,7 +34,7 @@ body {
 }
 
 #start:hover {
-    background: #d1319c;
+    background: black;
     color: #e7f1fa;
 }
 
