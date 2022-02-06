@@ -52,7 +52,7 @@ body {
 
 #guide h2 {
     font-size: 60px;
-    color: #ff5235;
+    color: #d1319c;
 }
 #guide :nth-child(1){
     color:red;
@@ -122,7 +122,7 @@ body {
 #quiz #quiz_header #timer {
     height: 50px;
     width: 200px;
-    background: #ff5235;
+    background: #0ec7ff;
     color: #e7f1fa;
     border: 1px solid #b0c4d8;
     font-size: 18px;
@@ -178,7 +178,7 @@ body {
 #quiz #optionList h4 {
     height: 50px;
     width: 535px;
-    background: #ff5235;
+    background: #17a1e0;
     line-height: 50px;
     margin: 5px 0;
     border-radius: 7px;
