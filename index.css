@@ -9,7 +9,7 @@ body {
     display: grid;
     place-items: center;
     height: 100vh;
-    background: #465463;
+    background: #9ec09b;
 }
 
 #container {
@@ -27,9 +27,6 @@ body {
     color: #000;
     font-size: 23px;
     font-weight: 700;
-    border-radius: 40px 10px;
-    border: 1px solid #b0c4d8;
-    cursor: pointer;
 /*    display: none;*/
 }
 
