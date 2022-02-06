@@ -36,8 +36,8 @@ let MCQS = [
     question:
       "Which of the following is not a way JavaScript code can be involved in a HTML file?",
     choice1: "External",
-    choice2: "Inline",
-    choice3: "Exline",
+    choice2: "Exline",
+    choice3: "Inline",
     choice4: "Internal",
     answer: 1,
   },
