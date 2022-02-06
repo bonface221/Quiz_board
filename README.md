@@ -26,11 +26,12 @@
 
 
 <h2>Bugs<h2>
-<h5>If you need to fix a bug kindly inbox me and open up  an issue by including your search query and the expected result<h5>
-<h2>Built with<h2>
 
-<h5>HTML<h5>
-<h5>Css<h5>
-<h5>Javascript<h5>
-<h1>License<h1>
-<h5>MIT @boniface221<h5>
+  <h5>If you need to fix a bug kindly inbox me and open up  an issue by including your search query and the expected result<h5>
+  <h2>Built with<h2>
+
+  <h5>HTML<h5>
+  <h5>Css<h5>
+  <h5>Javascript<h5>
+  <h1>License<h1>
+  <h5>MIT @boniface221<h5>
