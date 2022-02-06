@@ -35,7 +35,7 @@
 <h5>Css<h5>
 <h5>Javascript<h5>
 <p>my figma design<p>
-<img src="untitled.png"></img>
+<img src="Untitled.png" alt="">
 <h1>License<h1>
 
 <h5>MIT @boniface221<h5>
